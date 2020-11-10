@@ -1,3 +1,3 @@
 # Setup Virtual Machine
 
-wget -O - https://github.com/douglasJovenil/setup-virtual-machine/src/script.sh | bash
+wget -O - https://raw.githubusercontent.com/douglasJovenil/setup-virtual-machine/main/src/script.sh | bash
